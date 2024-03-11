@@ -1,7 +1,7 @@
 {
   "name": "pizza-market",
   "version": "0.1.0",
-  "homepage": "https://alekscher1993.github.io/foodsamurai/",
+  "homepage": "https://alekscher1993.github.io/foodsamurai",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
