@@ -12,14 +12,9 @@ import { navEnum } from "../../widgets/products/model/type";
 export const Home: React.FC<{navType:navEnum,categories:string[]}> = ({navType,categories}) => {
   const home = useAppSelector(homeSelectors);
   const navTypeDatas=home.items.filter(item=>item.navType===navType)
-  const isMount = useRef(false);
   let dispatch = useAppDispatch();
   useEffect(() => {
-    if (isMount.current) {
-      dispatch(getDatas(home.query));
-      
-    }
-    isMount.current = true;
+    dispatch(getDatas(home.query));
   }, [home.query, dispatch]);
 
   if (home.loading === "failed") {
