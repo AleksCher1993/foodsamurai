@@ -1,0 +1,77 @@
+.search{
+    position: relative;
+    @media (max-width:975.98px) {
+        position: absolute;
+        opacity: 0;
+        visibility: hidden;
+        top: 47px;
+        right: 300px;
+        &.active{
+            opacity: 1;
+        visibility: visible;
+        }
+    }
+    @media (max-width:767.98px) {
+        top: 110px;
+        right: 50%;
+        transform: translateX(50%);
+        width: 300px;
+        display: flex;
+        justify-content: center;
+        opacity: 1;
+        visibility: visible;
+        
+    }
+    @media (max-width:299.98px) {
+        width: 100%;
+    }
+    
+    & .searchIcon{
+        width: 18px;   
+        height: 18px;
+        position: absolute;
+        left: 7px;
+        top: 50%;
+        transform: translateY(-50%);
+        @media (max-width:767.98px) {
+            left: 23px;
+
+        }
+    }
+    & input{
+     width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    &:focus{
+        border: 1px solid rgba(0, 0, 0, 0.4);
+
+    }
+    @media (max-width:767.98px) {
+        width: 90%;
+    }
+    @media (max-width:399.98px) {
+    }
+    @media (max-width:399.98px) {
+        
+    }
+ }   
+ & .closeIcon{
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    top: 50%;
+    right: 7px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    &:hover path{
+        stroke: red;
+    }
+    @media (max-width:767.98px) {
+        right: 24px;
+            top: 20px;
+    }
+ }
+}

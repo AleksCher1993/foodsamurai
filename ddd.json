@@ -1,0 +1,332 @@
+[
+  {
+    "id": "0",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+    "title": "Пепперони Фреш с перцем",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error quas consectetur reprehenderit at architecto earum! Ipsa, perspiciatis odio. Incidunt, aliquam veritatis accusantium hic officiis illum deleniti possimus saepe quod cumque.",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 803,
+    "category": 0,
+    "rating": 4,
+    "navType": "pizzas"
+  },
+  {
+    "id": "1",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+    "title": "Сырная",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error quas consectetur reprehenderit at architecto earum! Ipsa, perspiciatis odio. Incidunt, aliquam veritatis accusantium hic officiis illum deleniti possimus saepe quod cumque.",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 245,
+    "category": 0,
+    "rating": 6,
+    "navType": "pizzas"
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+    "title": "Цыпленок барбекю",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error quas consectetur reprehenderit at architecto earum! Ipsa, perspiciatis odio. Incidunt, aliquam veritatis accusantium hic officiis illum deleniti possimus saepe quod cumque.",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 295,
+    "category": 1,
+    "rating": 4,
+    "navType": "pizzas"
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/af553bf5-3887-4501-b88e-8f0f55229429.jpg",
+    "title": "Кисло-сладкий цыпленок",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error quas consectetur reprehenderit at architecto earum! Ipsa, perspiciatis odio. Incidunt, aliquam veritatis accusantium hic officiis illum deleniti possimus saepe quod cumque.",
+    "types": [1],
+    "sizes": [26, 30, 40],
+    "price": 275,
+    "category": 2,
+    "rating": 2,
+    "navType": "pizzas"
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+    "title": "Чизбургер-пицца",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error quas consectetur reprehenderit at architecto earum! Ipsa, perspiciatis odio. Incidunt, aliquam veritatis accusantium hic officiis illum deleniti possimus saepe quod cumque.",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 415,
+    "category": 3,
+    "rating": 8,
+    "navType": "pizzas"
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/1e1a6e80-b3ba-4a44-b6b9-beae5b1fbf27.jpg",
+    "title": "Крэйзи пепперони",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error quas consectetur reprehenderit at architecto earum! Ipsa, perspiciatis odio. Incidunt, aliquam veritatis accusantium hic officiis illum deleniti possimus saepe quod cumque.",
+    "types": [0],
+    "sizes": [30, 40],
+    "price": 580,
+    "category": 2,
+    "rating": 2,
+    "navType": "pizzas"
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
+    "title": "Пепперони",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error quas consectetur reprehenderit at architecto earum! Ipsa, perspiciatis odio. Incidunt, aliquam veritatis accusantium hic officiis illum deleniti possimus saepe quod cumque.",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 675,
+    "category": 1,
+    "rating": 9,
+    "navType": "pizzas"
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d48003cd-902c-420d-9f28-92d9dc5f73b4.jpg",
+    "title": "Маргарита",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error quas consectetur reprehenderit at architecto earum! Ipsa, perspiciatis odio. Incidunt, aliquam veritatis accusantium hic officiis illum deleniti possimus saepe quod cumque.",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 450,
+    "category": 4,
+    "rating": 10,
+    "navType": "pizzas"
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/ec29465e-606b-4a04-a03e-da3940d37e0e.jpg",
+    "title": "Четыре сезона",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error quas consectetur reprehenderit at architecto earum! Ipsa, perspiciatis odio. Incidunt, aliquam veritatis accusantium hic officiis illum deleniti possimus saepe quod cumque.",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 395,
+    "category": 5,
+    "rating": 10,
+    "navType": "pizzas"
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+    "title": "Овощи и грибы 🌱",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error quas consectetur reprehenderit at architecto earum! Ipsa, perspiciatis odio. Incidunt, aliquam veritatis accusantium hic officiis illum deleniti possimus saepe quod cumque.",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 285,
+    "category": 5,
+    "rating": 7,
+    "navType": "pizzas"
+  },
+  {
+    "id": "10",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/6-2.jpg",
+    "title": "Снежный краб",
+    "description": "Рис, снежный краб, огурец, сыр филадельфия, унаги соус, кунжут.",
+    "price": 159,
+    "category": 1,
+    "rating": 7,
+    "navType": "rolls"
+  },
+  {
+    "id": "11",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2022/04/dlya-odnogo.jpg",
+    "title": "Для одного",
+    "description": "Запеченный ролл с курицей, Запеченный ролл с острым крабом.",
+    "price": 399,
+    "category": 2,
+    "rating": 7,
+    "navType": "setsrolls"
+  },
+  {
+    "id": "12",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/klyukva.jpg",
+    "title": "Морс Клюква",
+    "description": "100% натуральный морс. Объем 0,45 л.",
+    "price": 120,
+    "category": 1,
+    "rating": 7,
+    "navType": "drinks"
+  },{
+    "id": "13",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/bonito-spajsi.jpg",
+    "title": "Бонито с крабом спайси",
+    "description": "Рис, нори, крабовые палочки, авокадо, соус Спайси, стружка тунца.",
+    "price": 149,
+    "category": 1,
+    "rating": 5,
+    "navType": "rolls"
+  },
+  {
+    "id": "14",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/bonito-s-krabom.jpg",
+    "title": "Бонито с крабом",
+    "description": "Рис, нори, сыр филадельфия, крабовые палочки, стружка тунца.",
+    "price": 149,
+    "category": 1,
+    "rating": 8,
+    "navType": "rolls"
+  },
+  {
+    "id": "15",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/6pbx4niilim.webp",
+    "title": "Нагано c угрем",
+    "description": "Рис, нори, сыр филадельфия, угорь, авокадо, икра тобико оранжевая.",
+    "price": 379,
+    "category": 1,
+    "rating": 5,
+    "navType": "rolls"
+  },
+  {
+    "id": "16",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/filadelfiya-s-ogurczom-lajt-1.jpg",
+    "title": "Филадельфия с огурцом лайт",
+    "description": "Рис, нори, сыр филадельфия, лосось, огурец.",
+    "price": 299,
+    "category": 0,
+    "rating": 5,
+    "navType": "rolls"
+  },
+  {
+    "id": "17",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/filadelfiya-s-bekonom-1.jpg",
+    "title": "Филадельфия с беконом",
+    "description": "Рис, нори, сыр филадельфия, огурец, бекон.",
+    "price": 149,
+    "category": 0,
+    "rating": 4,
+    "navType": "rolls"
+  },
+  {
+    "id": "18",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/filadelfiya-1.jpg",
+    "title": "Филадельфия",
+    "description": "Рис, нори, сыр филадельфия, лосось.",
+    "price": 449,
+    "category": 0,
+    "rating": 2,
+    "navType": "rolls"
+  },
+  {
+    "id": "19",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/18w2b2pp0vy.webp",
+    "title": "Филадельфия шик",
+    "description": "Рис, нори, сыр филадельфия, угорь, кунжут, соус унаги.",
+    "price": 629,
+    "category": 0,
+    "rating": 1,
+    "navType": "rolls"
+  },
+  {
+    "id": "20",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2022/03/zapechennyj-mehiko.jpg",
+    "title": "Запеченный Мехико",
+    "description": "Тортилья, сыр творожный, курица копченая, помидор, унаги соус, кунжут.",
+    "price": 249,
+    "category": 2,
+    "rating": 6,
+    "navType": "rolls"
+  },
+  {
+    "id": "21",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2022/04/tempura-s-kuriczej.jpg",
+    "title": "Темпура с курицей",
+    "description": "Рис, крем творожный, курица копченая, лук зеленый, соус цезарь.",
+    "price": 149,
+    "category": 2,
+    "rating": 8,
+    "navType": "rolls"
+  },
+  {
+    "id": "22",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/ebi-tempura-1024x682.jpg",
+    "title": "Эби темпура",
+    "description": "Рис, нори, сыр Филадельфия, Тигровая креветка, салат Чука.",
+    "price": 299,
+    "category": 2,
+    "rating": 5,
+    "navType": "rolls"
+  },
+  {
+    "id": "23",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/duvjldw5gce.webp",
+    "title": "Унаги темпура",
+    "description": "Рис, нори, угорь, огурец, плавленный сыр, соус Унаги, кунжут.",
+    "price": 399,
+    "category": 2,
+    "rating": 3,
+    "navType": "rolls"
+  },
+  {
+    "id": "24",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2022/04/czezar-tempura.jpg",
+    "title": "Цезарь темпура",
+    "description": "Тортилья, курица копченая, помидор, сыр творожный, лист салата, соус цезарь, сыр пармезан.",
+    "price": 199,
+    "category": 2,
+    "rating": 8,
+    "navType": "rolls"
+  },
+  {
+    "id": "25",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/h.jpg",
+    "title": "Для Двоих",
+    "description": "Филадельфия с огурцом. Роллы ½: Майами с авакадо, Рэд с крабом, Филадельфия с лососем, Бонито с крабом спайси.",
+    "price": 599,
+    "category": 1,
+    "rating": 3,
+    "navType": "setsrolls"
+  },
+  {
+    "id": "26",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2022/10/set-tanuki.jpg",
+    "title": "Тануки",
+    "description": "Запеченный ролл с цыпленком и омлетом, Масаго с крабом, Лайт Филадельфия с огурцом, Филадельфия с лососем, Филадельфия с икрой.",
+    "price": 749,
+    "category": 2,
+    "rating": 1,
+    "navType": "setsrolls"
+  },
+  {
+    "id": "27",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2020/09/3-2.jpg",
+    "title": "Запечёнка",
+    "description": "Роллы: Запечённый маки-ролл с беконом, Запечённый маки-ролл сливочный цыпленок, Запечённый маки-ролл с острым крабом и авокадо, Запечённый маки-ролл с овощами Запечённый маки-ролл с лососем терияки",
+    "price": 749,
+    "category": 2,
+    "rating": 1,
+    "navType": "setsrolls"
+  },
+  {
+    "id": "28",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2022/10/set-lotos.jpg",
+    "title": "Лотос",
+    "description": "Филадельфия с лососем, Майами с авокадо, Чикен, Филадельфия с беконом, Калифорния с крабом, Лайт Филадельфия с огурцом",
+    "price": 999,
+    "category": 0,
+    "rating": 1,
+    "navType": "setsrolls"
+  },
+  {
+    "id": "29",
+    "imageUrl": "https://demo.foodninja.pro/wp-content/uploads/2022/10/set-lotos.jpg",
+    "title": "Большая Компания",
+    "description": "Роллы: Запечённый маки-ролл с цыпленком и омлетом, Запечённый маки-ролл с острым крабом и авокадо, Запеченный Мехико, Запечённый ролл с лососем и снежным крабом, Калифорния с лососем, Филадельфия, Филадельфия с лососем.",
+    "price": 1499,
+    "category": 2,
+    "rating": 2,
+    "navType": "setsrolls"
+  },
+  {
+    "id": "30",
+    "imageUrl": "https://static.sushiwok.ru/img/09e1f273d75222e80b68228d0967dfab/500x500",
+    "title": "Тропический ролл",
+    "description": "Тесто харумаки, сыр сливочный, банан, ананас, сироп шоколадный, сироп клубничный.",
+    "price": 279,
+    "category": 3,
+    "rating": 1,
+    "navType": "rolls"
+  }
+]
+

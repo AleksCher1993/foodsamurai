@@ -1,0 +1,15 @@
+.disabled{
+    opacity: 0.4;
+    border-color: #787878;
+    cursor: default;
+    background:none!important;
+    
+    transform: none;
+    &:active{
+        transform: none;
+
+    }
+    span{
+        color: #787878!important;
+    }
+}

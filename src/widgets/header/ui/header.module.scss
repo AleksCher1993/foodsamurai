@@ -1,0 +1,17 @@
+
+.search{
+    .searchIcon{
+            @media (max-width:975.98px) {
+            width: 24px;   
+            height: 24px;
+            position: absolute;
+            top: 58px;
+            right: 260px;
+        }
+        @media (max-width:767.98px) {
+            display: none;
+
+        }
+    }
+
+}

@@ -1,0 +1,101 @@
+.burger {
+    @media (min-width: 768px) {
+        display: none;
+    }
+        .burgerBTN {
+            @media (max-width: 767.98px) {
+                width: 48px;
+                height: 48px;
+                border: 1px solid #7b7b7b78;
+                position: relative;
+                border-radius: 10px;
+                cursor: pointer;
+
+                span {
+                    width: 80%;
+                    position: absolute;
+                    left: 50%;
+                    top: 50%;
+                    transform: translate(-50%, -50%);
+                    height: 2px;
+                    background-color: #7b7b7b;
+
+                    &::after,
+                    &::before {
+                        transition: all 0.3s ease;
+                        content: "";
+                        position: absolute;
+                        width: 100%;
+                        height: 2px;
+                        background-color: #7b7b7b;
+                    }
+                    &::after {
+                        content: "";
+                        top: 11px;
+                    }
+                    &::before {
+                        content: "";
+                        bottom: 11px;
+                    }
+                }
+                &.active {
+                    position: relative;
+                    z-index: 101;
+                    background-color: white;
+                    span {
+                        height: 0px;
+                        &::before {
+                            transition: all 0.3s ease;
+                            content: "";
+                            transform: rotate(45deg);
+                            top: 0px;
+                        }
+                        &::after {
+                            transition: all 0.3s ease;
+                            content: "";
+                            transform: rotate(-45deg);
+                            top: 0px;
+                        }
+                    }
+                }
+            }
+        }
+        .menu {
+            opacity: 0;
+            visibility: hidden;
+            position: absolute;
+            background-color: #000000d2;
+            backdrop-filter: smooth;
+            width: 100%;
+            right: 0;
+            left: 0;
+            top: -100%;
+            transition: all 0.3s ease;
+            z-index: 100;
+            ul {
+                padding-top: 100px;
+                li {
+                    padding-top: 10px;
+                    padding-bottom: 40px;
+                    padding-left: 40px;
+                    &.active{
+                        a{
+
+                            color:orange
+                        }
+                    }
+                    a {
+                        font-size: 18px;
+                        color: white;
+                    }
+                    
+                }
+            }
+            &.show {
+                top: 0px;
+                opacity: 1;
+                visibility: visible;
+            }
+        }
+    }
+
